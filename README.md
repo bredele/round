@@ -9,7 +9,7 @@ var round = require('round');
 round(245.678);
 // => 246
 
-round(245.678);
+round(245.678, 2);
 // => 245.68
 ```
 
