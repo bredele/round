@@ -1,0 +1,30 @@
+{
+  "name": "round",
+  "version": "0.0.0",
+  "description": "number rounding",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bredele/round.git"
+  },
+  "keywords": [
+    "math",
+    "round",
+    "decimal"
+  ],
+  "author": "Olivier Wietrich <olivier.wietrich@gmail.com> (http://github.com/bredele)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/round/issues"
+  },
+  "homepage": "https://github.com/bredele/round",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
